@@ -1,4 +1,4 @@
-#include "system_info.hpp"
+#include "./include/system_info.hpp"
 #include "process.hpp"
 #include "utils.hpp"
 #include <dirent.h>
